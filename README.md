@@ -1,5 +1,7 @@
 # utsalpro
 
 NAMA : BINTANG AUGRI FARIS
-NIM  : I.2210458
+<br>
+NIM  : I.2210458# 
+<br>
 PRODI: ILMU KOMPUTER
